@@ -1,0 +1,21 @@
+.aboutContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../../../public/pngegRojo.png");
+    background-size: allcover; 
+    background-repeat: no-repeat; 
+     background-position: center center;
+    background-position: center; 
+}
+
+.h1 {
+    color:aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    align-items: center;
+}
+.h3 {
+    color:rgb(25, 0, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    align-items: center;
+}
